@@ -1,0 +1,1 @@
+This repository exists to provide an easy to access place for reporting issues with any of my packs on Modrinth.
